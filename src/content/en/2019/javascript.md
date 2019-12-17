@@ -8,7 +8,7 @@ reviewers: [obto, paulcalvano, mathiasbynens]
 translators: []
 discuss: 1756
 published: 2019-11-11T00:00:00.000Z
-last_updated: 2019-12-04T00:00:00.000Z
+last_updated: 2019-12-17T00:00:00.000Z
 ---
 
 ## Introduction
@@ -286,6 +286,10 @@ There are a number of possible reasons:
 - Switching from jQuery to a newer client-side library can take time depending on how large an application is, and many sites may consist of jQuery in addition to newer client-side libraries.
 
 Other top used JavaScript libraries include jQuery variants (jQuery migrate, jQuery UI), [Modernizr](https://modernizr.com/), [Moment.js](https://momentjs.com/), [Underscore.js](https://underscorejs.org/) and so on.
+
+### Frameworks and UI libraries	
+
+Note: A previous version of this chapter discussed the usage of frameworks in this section. However, we are investigating queries around the accuracy of these statistics and have decided to remove this section temporarily while we complete this review.
 
 ## Differential loading
 
